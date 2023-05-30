@@ -28,7 +28,7 @@ namespace YasinFinal.Areas.Bizlandadmin.Controllers
                 Name = newuser.Name,
                 Email = newuser.Email,
                 Surname = newuser.Surname,
-                UserName = newuser.Surname
+                UserName = newuser.Username
             };
 
             IdentityResult error = await _userManager.CreateAsync(user, newuser.Password);
