@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = YasinFinal
+build_property.RootNamespace = YasinFinal
+build_property.ProjectDir = C:\Users\CA.R215.15\Desktop\Yasin\YasinFinal\YasinFinal\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\CA.R215.15\Desktop\Yasin\YasinFinal\YasinFinal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Areas/Bizlandadmin/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQml6bGFuZGFkbWluXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Areas/Bizlandadmin/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQml6bGFuZGFkbWluXFZpZXdzXEFjY291bnRcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Areas/Bizlandadmin/Views/Settings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQml6bGFuZGFkbWluXFZpZXdzXFNldHRpbmdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Areas/Bizlandadmin/Views/Settings/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQml6bGFuZGFkbWluXFZpZXdzXFNldHRpbmdzXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Areas/Bizlandadmin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQml6bGFuZGFkbWluXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Areas/Bizlandadmin/Views/Team/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQml6bGFuZGFkbWluXFZpZXdzXFRlYW1cY3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Areas/Bizlandadmin/Views/Team/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQml6bGFuZGFkbWluXFZpZXdzXFRlYW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Areas/Bizlandadmin/Views/Team/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQml6bGFuZGFkbWluXFZpZXdzXFRlYW1cdXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Areas/Bizlandadmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQml6bGFuZGFkbWluXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Areas/Bizlandadmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQml6bGFuZGFkbWluXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CA.R215.15/Desktop/Yasin/YasinFinal/YasinFinal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
